@@ -55,8 +55,8 @@ The dataset is stored in a CSV file (`data.csv`) and contains the following feat
 <br>├── predict.py
 <br>├── model.pkl
 <br>├── README.md
-<br>|── .gitigonre
-<br>|──LICENSE
+<br>|── screenshots
+
 
 ---
 
