@@ -1,25 +1,25 @@
 # Student-Expense-Predictor-ML
 Student Expense Predictor using Machine Learning predicts monthly expenses based on daily spending, outings, food, and travel costs. Built using Linear Regression with Python, pandas, and scikit-learn. It helps students plan budgets and understand spending patterns effectively.
-# 💰 Student Expense Predictor using Machine Learning
+# Student Expense Predictor using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a Machine Learning-based system that predicts a student's monthly expenses based on their daily spending habits. It helps students understand and manage their finances better.
 The model uses Linear Regression to learn patterns from past data and estimate future expenses.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 Students often face difficulty in managing their monthly expenses due to lack of proper planning and prediction. This project aims to solve this problem by providing an intelligent system that predicts expenses based on user inputs.
 
 ---
 
-## 💡 Solution
+## Solution
 We built a prediction system using Machine Learning that takes inputs such as daily expense, outings, food cost, and travel cost, and predicts the total monthly expense.
 
 ---
 
-## 🧠 Machine Learning Concepts Used
+##  Machine Learning Concepts Used
 * Supervised Learning
 * Linear Regression
 * Feature Selection
@@ -27,7 +27,7 @@ We built a prediction system using Machine Learning that takes inputs such as da
 
 ---
 
-## 🧰 Technologies & Libraries Used
+##  Technologies & Libraries Used
 
 * Python
 * pandas
@@ -36,7 +36,7 @@ We built a prediction system using Machine Learning that takes inputs such as da
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset is stored in a CSV file (`data.csv`) and contains the following features:
 * daily_expense → Average daily spending
@@ -47,7 +47,7 @@ The dataset is stored in a CSV file (`data.csv`) and contains the following feat
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 <br>Student-Expense-Predictor-ML/
 <br>│
 <br>├── data.csv
@@ -77,7 +77,7 @@ python predict.py
 
 ---
 
-## ▶️ Example Input
+##  Example Input
 <br>Daily expense: 200
 <br>Outings: 5
 <br>Food cost: 3000
@@ -85,12 +85,12 @@ python predict.py
 
 ---
 
-## 🎯 Output
+##  Output
 Estimated Monthly Expense: ₹9200
 
 ---
 
-## 🚀 Features
+##  Features
 * Simple and user-friendly
 * Fast prediction using ML
 * Real-world application
@@ -98,14 +98,14 @@ Estimated Monthly Expense: ₹9200
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 * Small dataset
 * Accuracy depends on input data
 * Does not include unexpected expenses
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 * Use real-world large dataset
 * Add graphical user interface (GUI)
 * Improve prediction accuracy
@@ -113,7 +113,7 @@ Estimated Monthly Expense: ₹9200
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 * Understanding of Machine Learning workflow
 * Working with datasets using pandas
 * Training models using scikit-learn
@@ -121,7 +121,7 @@ Estimated Monthly Expense: ₹9200
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Shivam Singh
 <br>25BCE10736
 <br>B.Tech CSE Core
